@@ -9,4 +9,4 @@ live site link : https://health-care-app-c532e.web.app/
 4. Email password Authentication 
 5. user can view details only when he/she is logged in 
 6. we have 404 not available page if somebone go for a worng url then it will be shown
-7. er have two extra componenets (About Us and Contact us)
+7. user have two extra componenets (About Us and Contact us)
